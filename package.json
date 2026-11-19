@@ -1,0 +1,20 @@
+
+{
+  "name": "http-load-tester",
+  "version": "1.0.0",
+  "description": "A concurrent HTTP load testing tool built using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "load-testing",
+    "performance",
+    "networking"
+  ],
+  "author": "",
+  "license": "MIT"
+}
